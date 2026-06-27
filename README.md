@@ -138,4 +138,4 @@ The project includes basic error handling for:
 
 # Author
 
-NeDa.
+NeDa and Copilot :)
