@@ -1,4 +1,4 @@
-# REPORT.md
+# REPORT
 
 ## 1. Solution Overview
 
